@@ -1,0 +1,11 @@
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.exe
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.deps.json
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.runtimeconfig.json
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.runtimeconfig.dev.json
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.dll
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\bin\Debug\netcoreapp3.0\MAX SALARY USING LINQ.pdb
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\obj\Debug\netcoreapp3.0\MAX SALARY USING LINQ.csprojAssemblyReference.cache
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\obj\Debug\netcoreapp3.0\MAX SALARY USING LINQ.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\obj\Debug\netcoreapp3.0\MAX SALARY USING LINQ.AssemblyInfo.cs
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\obj\Debug\netcoreapp3.0\MAX SALARY USING LINQ.dll
+C:\Users\Vaibhav\source\repos\MAX SALARY USING LINQ\MAX SALARY USING LINQ\obj\Debug\netcoreapp3.0\MAX SALARY USING LINQ.pdb
